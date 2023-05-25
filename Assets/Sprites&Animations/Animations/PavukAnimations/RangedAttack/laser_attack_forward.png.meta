@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 774e798b8ce1b754e8734cd6cf8d78bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laser_attack_forward_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 727
+        width: 200
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42be2f16f2654974295c633b3d3ae61d
+      internalID: 1595744154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 909
+        width: 200
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79aa1c8d5f375840b41c8937f9b6301
+      internalID: 1531547331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 727
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01cd32d5fa36f2498e539024f7b758b
+      internalID: 1501692002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 909
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d82c8540bec72b4b9af9f8fafdb9f89
+      internalID: 969624656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 727
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8fbedc7ec5ea745b5b383bd1331cea
+      internalID: -1826815074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 909
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df80aa6e737d14bb85c693e9e6f5a2
+      internalID: 1415345507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 727
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bf77c5c8cae9344a8eb7e7cb21c81d
+      internalID: -623312640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 909
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27746954156d80d4fbf76481b6944029
+      internalID: -1872711669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 727
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc5344128d3cf74dbbee8a0be454ea1
+      internalID: 51347141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 909
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f22f5f8ccfc6409774f176bfe8b9f
+      internalID: -1926122019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_10
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 727
+        width: 200
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a30c6c3e0d5640af0f903fc93265e
+      internalID: -33100915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_11
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 909
+        width: 200
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0cc3df363676940be1699dce4a1c05
+      internalID: -623553987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_12
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 727
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03249cbb13915b549acabcf83d99f7a2
+      internalID: 483074503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_13
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 909
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c92d2b8418164d81b78809836a13f
+      internalID: 1045531500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_14
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 909
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fcbba0fc07cf6469ff6bd4c62a0584
+      internalID: -82174202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_15
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 727
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19e2f3e97886a4dae1e069bccd7007
+      internalID: -431789360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_16
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 909
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29584dcdb296ba745ae39931031f6004
+      internalID: -808900488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_17
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 727
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409d5d531010954187b0f517903da47
+      internalID: -1140057587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_18
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 727
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1424d2fc9ba6564587fbeb364c4073c
+      internalID: 1431403464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_19
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 909
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041b7c85992f17f44925f9cf7bacda36
+      internalID: 13805802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f58c730c53ff045a624f606382fa64
+      internalID: -350953772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 545
+        width: 200
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0d1cda530c5648b0490aaa6cd5735
+      internalID: -1102604524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6985f1a5c0c9704ebce320628d76033
+      internalID: 670580087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 545
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681026d473e54df4ba2ca9f2a91bbc2b
+      internalID: 1308300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938886f525c5f04888e78afff19e7e6
+      internalID: 1109841524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 544
+        width: 201
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10e98441dd4f7a45953fd2ceee589ce
+      internalID: 195108009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8443b4b1acdff46b17514926128e22
+      internalID: -256055406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 544
+        width: 202
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ab7868134a8d46910c57d4d78c2aa
+      internalID: 63903920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4066be0029410446a85c36285973c77
+      internalID: 1364890432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_29
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 545
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c612212eaf0b4eb676ea5efa401c9
+      internalID: 386312797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_30
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18241addc61548048bcb5bf7ecb8232f
+      internalID: -1233425249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_31
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 545
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d7ece4cdb72e8449e94cd1a71ad80e
+      internalID: -1560126601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_32
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02979995cec82f4db40b0b9d13305d2
+      internalID: -1006661010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_33
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 545
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1041f4424e118a14da7410c383afcfc4
+      internalID: -1014932192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_34
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 545
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6161e2e563c9e7e4aa2d1acc4e74b0ca
+      internalID: 825431262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_35
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f0f2b55db460046a4f1760099d8723
+      internalID: 1725199976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_36
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 545
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56555d36747c9748b5b476fbfeb9aa3
+      internalID: 1680490116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_37
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0190ace5397e0c409430653c0eefd9c
+      internalID: -908842221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_38
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 363
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6318d2fc29355d47afe4ede76e2110d
+      internalID: 1372618156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_39
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 545
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113ba483b7661849969a281e2104419
+      internalID: -1884594778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 181
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9626d2d6265a3c469751b93f18b7f2f
+      internalID: 819510433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544712a8e2e21e04185f24c60473c864
+      internalID: 78373050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4d50889d08e0a43ae5cbb77633122e
+      internalID: 360897363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8ef43409a9ba244afd0c40982a3885
+      internalID: 469868930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_44
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 181
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84665187e04f2a340979352ad70f5e18
+      internalID: 312256155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab70119da436684f92c3b8c8a10f8d7
+      internalID: -1856160453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_46
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 181
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087763abe7ba23449daefe78cabb786
+      internalID: 1400895688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_47
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363f035b24e3e8b4fac949e5bb02e4b9
+      internalID: -1333696787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_48
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 181
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c716da6db3f209469fcc031523a3b44
+      internalID: 929829623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_49
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c6184892a485b4e8a04b1306553bd5
+      internalID: 395896059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_50
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 181
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79534cfffc51df488530ac0bcb41909
+      internalID: -1369120858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_51
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a18601f8cf27949bac349d53e3403d
+      internalID: -32067841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_52
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 181
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf008d148d6a38543be861b385424771
+      internalID: 449461395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_53
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1773a4efd62f5749875dac7789432fd
+      internalID: 182947286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_54
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 181
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b677f8182d76d614281e465855080b22
+      internalID: 238301578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_55
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 0
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1631b9d4ab9281748a04bca86877d8cd
+      internalID: 2121919713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_56
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 181
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909b3aa62e41b14e8f186ab81e5bda7
+      internalID: -1980523196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_57
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 0
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376ebfbca6806184598a8a64f7016f6e
+      internalID: -1253386013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_58
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 0
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4874b158ecf9c544a9798febb8454a54
+      internalID: -156366333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser_attack_forward_59
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 181
+        width: 201
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7a36cfe8c4d042bf37b6cda0c8dcb
+      internalID: -1539191776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      laser_attack_forward_21: -1102604524
+      laser_attack_forward_51: -32067841
+      laser_attack_forward_57: -1253386013
+      laser_attack_forward_48: 929829623
+      laser_attack_forward_52: 449461395
+      laser_attack_forward_22: 670580087
+      laser_attack_forward_33: -1014932192
+      laser_attack_forward_15: -431789360
+      laser_attack_forward_12: 483074503
+      laser_attack_forward_11: -623553987
+      laser_attack_forward_37: -908842221
+      laser_attack_forward_46: 1400895688
+      laser_attack_forward_17: -1140057587
+      laser_attack_forward_43: 469868930
+      laser_attack_forward_24: 1109841524
+      laser_attack_forward_35: 1725199976
+      laser_attack_forward_19: 13805802
+      laser_attack_forward_27: 63903920
+      laser_attack_forward_54: 238301578
+      laser_attack_forward_25: 195108009
+      laser_attack_forward_31: -1560126601
+      laser_attack_forward_5: 1415345507
+      laser_attack_forward_29: 386312797
+      laser_attack_forward_50: -1369120858
+      laser_attack_forward_45: -1856160453
+      laser_attack_forward_4: -1826815074
+      laser_attack_forward_38: 1372618156
+      laser_attack_forward_16: -808900488
+      laser_attack_forward_47: -1333696787
+      laser_attack_forward_0: 1595744154
+      laser_attack_forward_14: -82174202
+      laser_attack_forward_32: -1006661010
+      laser_attack_forward_36: 1680490116
+      laser_attack_forward_9: -1926122019
+      laser_attack_forward_23: 1308300204
+      laser_attack_forward_55: 2121919713
+      laser_attack_forward_28: 1364890432
+      laser_attack_forward_39: -1884594778
+      laser_attack_forward_26: -256055406
+      laser_attack_forward_30: -1233425249
+      laser_attack_forward_1: 1531547331
+      laser_attack_forward_7: -1872711669
+      laser_attack_forward_6: -623312640
+      laser_attack_forward_13: 1045531500
+      laser_attack_forward_3: 969624656
+      laser_attack_forward_34: 825431262
+      laser_attack_forward_2: 1501692002
+      laser_attack_forward_59: -1539191776
+      laser_attack_forward_44: 312256155
+      laser_attack_forward_56: -1980523196
+      laser_attack_forward_58: -156366333
+      laser_attack_forward_53: 182947286
+      laser_attack_forward_10: -33100915
+      laser_attack_forward_40: 819510433
+      laser_attack_forward_42: 360897363
+      laser_attack_forward_18: 1431403464
+      laser_attack_forward_49: 395896059
+      laser_attack_forward_41: 78373050
+      laser_attack_forward_20: -350953772
+      laser_attack_forward_8: 51347141
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

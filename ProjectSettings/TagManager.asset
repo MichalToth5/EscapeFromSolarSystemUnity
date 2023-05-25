@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - HealthDown
+  - HealthUp
+  - Enemy
+  - Ladder
+  - Spawn1
+  - Spawn2
+  - SpeedBoots
+  - Projectile
+  - RangedEnemy
+  - TextOvladanie
+  - MeleeText
+  - HealthText
+  - CoinText
+  - Key
+  - NewEnemyText
+  - JumpadText
+  - JupiterCloudText
+  - JupiterSpodokText
+  - JupiterNextPText
+  - SaturnWhereText
+  - UranInfoText
+  - NeptuneStartText
+  - Man
+  - Boy
+  - Grandpa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Surface_Concrete
+  - Surface_Gravel
+  - Surface_Wood
+  - Surface_Metal
+  - Surface_Water
+  - Surface_Snow
+  - Surface_Sand
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
